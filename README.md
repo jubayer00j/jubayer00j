@@ -60,7 +60,7 @@ Software Developer specialising in **Android and Web development**. I focus on c
 <div align="center">
 
 <a href="https://github.com/jubayer00j/noma">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jubayer00j&repo=noma&theme=tokyonight&show_owner=true" alt="Noma" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jubayer00j&repo=noma&theme=tokyonight&show_owner=true" alt="Noma" />
 </a>
 
 </div>
@@ -73,8 +73,8 @@ Software Developer specialising in **Android and Web development**. I focus on c
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jubayer00j&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayer00j&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=jubayer00j&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jubayer00j&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
