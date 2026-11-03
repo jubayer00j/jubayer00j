@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jubayer%20Hossain&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Android%20%26%20Web&descSize=17&descAlignY=56" width="100%" />
+<img src="https://raw.githubusercontent.com/jubayer00j/jubayer00j/main/assets/header.png" width="100%" alt="Jubayer Hossain — Software Developer, Android & Web" />
 
 ### I build modern, fast and secure applications for Android and the Web.
 
@@ -76,8 +76,4 @@ Software Developer specialising in **Android and Web development**. I focus on c
 <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=jubayer00j&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jubayer00j&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" width="100%" />
 </div>
